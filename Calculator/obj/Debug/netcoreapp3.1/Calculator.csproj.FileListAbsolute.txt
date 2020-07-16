@@ -1,0 +1,45 @@
+D:\Web Developement\Works\Basics\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\Web Developement\Works\Basics\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\Web Developement\Works\Basics\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\Web Developement\Works\Basics\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\Web Developement\Works\Basics\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\Web Developement\Works\Basics\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\Web Developement\Works\Basics\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+D:\Web Developement\Works\Basics\Calculator\obj\Debug\netcoreapp3.1\Calculator.Calculator.resources
+D:\Web Developement\Works\Basics\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+D:\Web Developement\Works\Basics\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\Web Developement\Works\Basics\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\Web Developement\Works\Basics\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\Web Developement\Works\Basics\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\Web Developement\Works\Basics\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\Web Developement\Works\Basics\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+D:\AKASH\Work Station\Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\AKASH\Work Station\Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\AKASH\Work Station\Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\AKASH\Work Station\Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\AKASH\Work Station\Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\AKASH\Work Station\Projects\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\AKASH\Work Station\Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+D:\AKASH\Work Station\Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.Calculator.resources
+D:\AKASH\Work Station\Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+D:\AKASH\Work Station\Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\AKASH\Work Station\Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\AKASH\Work Station\Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\AKASH\Work Station\Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\AKASH\Work Station\Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\AKASH\Work Station\Projects\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+D:\AKASH\Work Station\Web Developement\Works\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+D:\AKASH\Work Station\Web Developement\Works\Calculator\obj\Debug\netcoreapp3.1\Calculator.Calculator.resources
+D:\AKASH\Work Station\Web Developement\Works\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+D:\AKASH\Work Station\Web Developement\Works\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\AKASH\Work Station\Web Developement\Works\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\AKASH\Work Station\Web Developement\Works\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\AKASH\Work Station\Web Developement\Works\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\AKASH\Work Station\Web Developement\Works\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\AKASH\Work Station\Web Developement\Works\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\AKASH\Work Station\Web Developement\Works\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\AKASH\Work Station\Web Developement\Works\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\AKASH\Work Station\Web Developement\Works\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\AKASH\Work Station\Web Developement\Works\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\AKASH\Work Station\Web Developement\Works\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\AKASH\Work Station\Web Developement\Works\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
